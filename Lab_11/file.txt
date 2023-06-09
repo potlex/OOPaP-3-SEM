@@ -1,0 +1,15 @@
+Имя сборки - Лабораторная работа 11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+.ctor();
+.ctor(String _name);
+get_Name();
+set_Name(String value);
+Show();
+ToConsole(List`1 list);
+ToString();
+GetType();
+Equals(Object obj);
+GetHashCode();
+Лабораторная_работа_11.Example System.String name
+Лабораторная_работа_11.Example System.String Name
+interface IShow
+set_Name(String value);

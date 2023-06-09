@@ -1,0 +1,16 @@
+Disk name: C:\
+Volume label: C:\
+
+Disk name: D:\
+Volume label: D:\
+
+Disk name: F:\
+Volume label: F:\
+
+
+Size: 0
+Extension: .txt
+Name: pavlogfile.txt
+
+
+$Session: 11.12.2022 0:00:00$
